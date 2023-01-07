@@ -4,7 +4,7 @@ import { BiArchive } from "react-icons/bi";
 const ImgIcon = () => {
   return (
     <picture>
-      <img src="src/assets/Logo.svg" alt="Logo BurguerKenzie" />
+      <img src="./src/assets/Logo.svg" alt="Logo BurguerKenzie" />
       <div>
         <div>
           <BiArchive />

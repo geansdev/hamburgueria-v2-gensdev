@@ -14,7 +14,7 @@ const Header = () => {
   return (
     <HeaderStyle>
       <picture>
-        <img src="src/assets/Logo.svg" alt="Logo BurguerKenzie" />
+        <img src="./src/assets/Logo.svg" alt="Logo BurguerKenzie" />
       </picture>
       <div>
         <form onSubmit={(event) => SearchInput(event)}>
